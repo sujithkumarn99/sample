@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="qa-automation-selenium-java">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="qa-automation-selenium-java"/>
+        <property name="java-output-path" value="/qa-automation-selenium-java/build/classes"/>
+    </wb-module>
+</project-modules>
